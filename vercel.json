@@ -1,0 +1,1 @@
+{"functions":{"api/index.mjs":{"maxDuration":30}},"rewrites":[{"destination":"/api/index.mjs","source":"/(.*)"}],"version":2}

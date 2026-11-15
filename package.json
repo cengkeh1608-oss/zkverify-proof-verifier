@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^5.3.0","snarkjs":"^0.7.6"},"description":"Public Groth16 proof verification service — zkVerify Agent Games Wildcard Track entry.","name":"zkverify-proof-verifier","private":true,"scripts":{"start":"node src/server.mjs"},"type":"module","version":"1.0.0"}
